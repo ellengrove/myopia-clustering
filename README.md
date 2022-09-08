@@ -5,8 +5,8 @@ The objective of this analysis was to experiment with various clutering algorith
 ### Data:
 Myopia data found within "Data/myopia.csv".
 
-### Technologies and Methods Used:
--Python
--Jupyter Notebook
--Matplotlib
--Skikitlearn (StandardScaler, PCA, TSNE, KMeans)
+### Technologies and Methods Used:  
+-Python   
+-Jupyter Notebook   
+-Matplotlib   
+-Skikitlearn (StandardScaler, PCA, TSNE, KMeans)    
