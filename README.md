@@ -9,4 +9,4 @@ Myopia data found within "Data/myopia.csv".
 -Python   
 -Jupyter Notebook   
 -Matplotlib   
--Skikitlearn (StandardScaler, PCA, TSNE, KMeans)    
+-Scikitlearn (StandardScaler, PCA, TSNE, KMeans)    
